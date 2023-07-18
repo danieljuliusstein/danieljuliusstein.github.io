@@ -20,13 +20,24 @@ body{overflow-x: hidden;}
 }
 .imdaniel {
   background-color: #121723; 
-  padding: 350px;
-  word-wrap: break-word; 
+ 
+  width: auto; 
+  
+  position: relative;
+  padding-top: 200px;
 }
+
+.daniel {
+  color: green; 
+  font-size: 50px; 
+  text-align: auto;
+  padding-bottom: 200px; 
+}
+
 .aboutMe {
   background-color: #121723;
-  width: auto; 
-  overflow-x:hidden; 
+  overflow: hidden;
+  
 }
 
 .headerBar {
@@ -169,14 +180,12 @@ h1 {
   padding: 0;
   font-size: 20px;
 }
-.daniel {
-  color: green; 
-  font-size: 50px; 
-}
+
 .seperator {
   color: green;
   padding: 20px; 
-  font-size: 30px;
+  width: auto; 
+  
 }
 
 .frontEnd {
