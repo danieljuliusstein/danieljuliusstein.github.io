@@ -21,6 +21,7 @@ body{overflow-x: hidden;}
 .imdaniel {
   background-color: #121723; 
   padding: 350px;
+  word-wrap: break-word; 
 }
 .aboutMe {
   background-color: #121723;
